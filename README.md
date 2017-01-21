@@ -5,6 +5,8 @@ Terima Kasih banyak kpd : Peter Aldrian, Uwe Meier, Andre Pura
 Meier, University of Leoben, Leoben, Austria yang telah menyediakan fungsi2 yg di butuhkan
 #### Kebutuhan Sistem
 - Image Acuisition Toolbox
+
 #### Cara Menjalankan
 - Jalankan Main.m
+
 #### TESTED WIN 7/10 32/64 bit
