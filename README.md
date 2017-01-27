@@ -10,4 +10,4 @@ Meier, University of Leoben, Leoben, Austria yang telah menyediakan fungsi2 yg d
 - Jalankan Main.m
 
 #### TESTED WIN 7/10 32/64 bit
-[demo](https://www.youtube.com/watch?v=TKeu2llrP3c&lc)
+[![DEMO](https://img.youtube.com/vi/TKeu2llrP3c/0.jpg)](https://www.youtube.com/watch?v=TKeu2llrP3c)
